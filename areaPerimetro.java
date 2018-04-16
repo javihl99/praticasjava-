@@ -28,7 +28,7 @@ public class areaPerimetro {
 		area= base * altura;
 		
 		System.out.println("El perimetro del rectangulo es " + perimetro + " .El area es " + area);
-		
+		/* estos son pruebas de git 
 
 		
 	}
