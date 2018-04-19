@@ -13,6 +13,7 @@ public class areaPerimetro {
 		int base;
 		System.out.print("introduce base");
 		base= sc.nextInt();
+		int c;
 		
 		
 		int altura;
