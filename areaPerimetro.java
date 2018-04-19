@@ -29,7 +29,7 @@ public class areaPerimetro {
 		
 		System.out.println("El perimetro del rectangulo es " + perimetro + " .El area es " + area);
 		/* estos son pruebas de git 
-
+fmdsfnf
 		
 	}
 
